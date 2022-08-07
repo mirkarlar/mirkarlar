@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wim-Jan, my nick here is @mirkarlar
 - 👀 I’m interested in fencing, go and quarkus
-- 🌱 I’m currently learning quarkus and torandoFX
+- 🌱 I’m currently learning quarkus and tornadoFX
 - 💞️ I’m looking to collaborate on: not sure yet, mostly play projects in my repo
 - 📫 How to reach me through here?
 
