@@ -2,7 +2,7 @@
 - 👀 I’m interested in fencing, go and quarkus
 - 🌱 I’m currently learning quarkus and tornadoFX
 - 💞️ I’m looking to collaborate on: not sure yet, mostly play projects in my repo
-- 📫 How to reach me through here?
+- 📫 How to reach me: through here?
 
 <!---
 mirkarlar/mirkarlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
